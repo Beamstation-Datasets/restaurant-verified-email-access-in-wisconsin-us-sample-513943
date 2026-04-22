@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8a9a537e-58d1-4532-ade5-3c872015d53b",
+  "export_job_id": "c4d188e1-745d-47e5-8c5d-82c860e80690",
   "id_short": 513943,
-  "published_at": "2026-04-18T19:16:50Z",
+  "published_at": "2026-04-22T19:50:23Z",
   "repo_name": "restaurant-verified-email-access-in-wisconsin-us-sample-513943",
   "sample_asset_name": "beamstation_513943_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/513943/beamstation_513943_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 222,
-  "sample_sha256": "5015ec70a2f7862b4678cd670dc7384f840d9b3ac6c6b23fa6f232d2bdf30528",
-  "sample_size_bytes": 881012,
-  "total_records": 2225
+  "sample_records": 138,
+  "sample_sha256": "b49588913d5844a4976cb42f989487ce00f80b01f0462689a401ede72ad923c3",
+  "sample_size_bytes": 555457,
+  "total_records": 1386
 }
